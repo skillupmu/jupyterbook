@@ -13,6 +13,7 @@ git clone https://github.com/skillupmu/jupyterbook.git
 
 ## install
  - jupyter lab 4.0.9
+ - Jupyter Book 0.15.1
 
 
 ## reference
