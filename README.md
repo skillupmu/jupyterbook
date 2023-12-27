@@ -22,6 +22,8 @@ jb create test-book
 cd test-book
 jb clean .
 jb build .
+
+jupyter notebook
 ```
 
 https://pygraph.helve-blog.com/
