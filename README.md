@@ -17,10 +17,11 @@ git clone https://github.com/skillupmu/jupyterbook.git
 
 
 ## reference
-
-jupyter-book clean .
-
-jupyter-book build .
-
+``` 
+jb create test-book
+cd test-book
+jb clean .
+jb build .
+```
 
 https://pygraph.helve-blog.com/
