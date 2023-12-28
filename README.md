@@ -23,6 +23,7 @@ git clone https://github.com/skillupmu/jupyterbook.git
  - https://myst-parser.readthedocs.io/en/latest/index.html#
  - https://sphinx-book-theme.readthedocs.io/en/stable/#
  - https://sphinx-design.readthedocs.io/en/furo-theme/index.html
+ - https://sphinx-design.readthedocs.io/en/furo-theme/index.html#
 
 ``` 
 jb create test-book
