@@ -19,7 +19,7 @@ git clone https://github.com/skillupmu/jupyterbook.git
 
 ## reference
 
-![](https://jupyterbook.org/en/stable/_static/logo-wide.svg){w=100px}
+[![](https://jupyterbook.org/en/stable/_static/logo-wide.svg)](https://jupyterbook.org/en/stable/intro.html){width=32px}
 
 ``` 
 jb create test-book
