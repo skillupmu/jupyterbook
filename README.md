@@ -14,6 +14,7 @@ git clone https://github.com/skillupmu/jupyterbook.git
 ## install
  - Jupyter Lab 4.0.9
  - Jupyter Book 0.15.1
+ - pip install myst-parser
 
 
 ## reference
