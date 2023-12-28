@@ -1,23 +1,21 @@
-# 設定メモ
-
-## URL
+# URL
   - https://skillupmu.github.io/jupyterbook/
 
 
-## git
+# git
 ``` 
 git remote set-url origin https://skillupmu@github.com/skillupmu/jupyterbook.git
 git clone https://github.com/skillupmu/jupyterbook.git
 ```
 
 
-## install
+# install
  - Jupyter Lab 4.0.9
  - Jupyter Book 0.15.1
  - pip install myst-parser
 
 
-## reference
+# reference
 
  - https://jupyterbook.org/en/stable/intro.html
  - https://myst-parser.readthedocs.io/en/latest/index.html#
@@ -34,6 +32,6 @@ jupyter lab
 jupyter notebook
 ```
 
-## JupyterBook example
+# JupyterBook example
 
  - https://pygraph.helve-blog.com/
