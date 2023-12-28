@@ -26,4 +26,6 @@ jupyter lab
 jupyter notebook
 ```
 
-https://pygraph.helve-blog.com/
+## JupyterBook example
+
+ - https://pygraph.helve-blog.com/
