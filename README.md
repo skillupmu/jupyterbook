@@ -19,9 +19,10 @@ git clone https://github.com/skillupmu/jupyterbook.git
 
 ## reference
 
-[![](https://jupyterbook.org/en/stable/_static/logo-wide.svg)](https://jupyterbook.org/en/stable/intro.html)]{width=32px}
-
 [![Alt text](https://jupyterbook.org/en/stable/_static/logo-wide.svg)](https://jupyterbook.org/en/stable/intro.html){width=32px}
+
+[![Alt text](https://jupyterbook.org/en/stable/_static/logo-wide.svg)](https://jupyterbook.org/en/stable/intro.html){width=50%}
+
 
 
 ``` 
