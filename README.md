@@ -32,6 +32,6 @@ jupyter lab
 jupyter notebook
 ```
 
-## JupyterBook example
+## example
 
  - https://pygraph.helve-blog.com/
