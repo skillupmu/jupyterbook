@@ -30,6 +30,7 @@ jb build .
 jupyter lab
 jupyter notebook
 ```
+https://gist.github.com/fjebaker/1f12345bc6488bcb4875fd1b191c0514
 
 ## example
 
