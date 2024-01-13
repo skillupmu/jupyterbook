@@ -6,6 +6,14 @@
 ``` 
 git remote set-url origin https://skillupmu@github.com/skillupmu/jupyterbook.git
 git clone https://github.com/skillupmu/jupyterbook.git
+cd skillupmu
+jb create test-book
+cd test-book
+jb clean .
+jb build .
+jupyter lab
+jupyter notebook
+
 ```
 
 
