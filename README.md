@@ -11,8 +11,6 @@ jb create test-book
 cd test-book
 jb clean .
 jb build .
-jupyter lab
-jupyter notebook
 
 ```
 
