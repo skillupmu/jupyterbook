@@ -3,21 +3,32 @@
 
 
 ## git
-``` 
-git remote set-url origin https://skillupmu@github.com/skillupmu/jupyterbook.git
+```
 git clone https://github.com/skillupmu/jupyterbook.git
+git remote set-url origin https://github.com/skillupmu/jupyterbook.git
+git remote add origin https://github.com/skillupmu/jupyterbook.git
+cd skillupmu/jupyterbook
+git init
+git add .
+git commit -m'add'
+git push origin main
+
+
+
 cd skillupmu
 jb create test-book
 cd test-book
 jb clean .
 jb build .
-
+ghp-import -n -p -f _build/html
 ```
 
 
 ## install
  - Jupyter Lab 4.0.9
  - Jupyter Book 0.15.1
+ - pip install jupyter-book
+ - pip install ghp-import
  - pip install myst-parser
  - pip install sphinx-book-theme
 
